@@ -6,6 +6,8 @@ google.com, pub-7839649756834603, DIRECT, f08c47fec0942fa0
 
 google.com, pub-9195892468992015, DIRECT, f08c47fec0942fa0
 
+google.com, pub-2580984145970082, DIRECT, f08c47fec0942fa0
+
 google.com, pub-2290755540215120, DIRECT, f08c47fec0942fa0
 
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
